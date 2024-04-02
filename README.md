@@ -37,6 +37,10 @@ Feel free to reach out to me via email or connect with me on LinkedIn!
 
 If you need anything else, I'll be happy to assist you. 😊
 
-<br>
+<be>
+
+>  I create this new Github because i want to add more profesional projects in my portfolio but if you want to check my previous Github here is:
+>  Old Github: **[OLD Github](https://github.com/alfredoaguiararce)** 🦕
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfredoagrar&show_icons=true&locale=en" alt="alfredoaguiararce" /></p>

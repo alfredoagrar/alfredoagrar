@@ -6,7 +6,7 @@ I specialize in .NET/Angular development and am dedicated to the team's success.
 
 ## **Experience**
 
-- 👨‍💻 Semi-Senior .NET Developer | [Toyota project with DXC and Quality & Knowledge (Q&K)] (Dec 2023 - actually)
+- 👨‍💻 Semi-Senior .NET Developer | [Toyota project with DXC and Quality & Knowledge (Q&K)] (Dec 2023 - Apr 2024)
     - Support .NET applications.
     - Support Angular applications.
     - Support SQL databases.
